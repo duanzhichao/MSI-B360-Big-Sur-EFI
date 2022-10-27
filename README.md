@@ -9,7 +9,7 @@
 
 | Components    | Version               |
 | ------------- | --------------------- |
-| OpenCorePkg   | 0.8.1    | 
+| OpenCorePkg   | 0.8.4    | 
 | AppleALC      | 1.7.5       |
 | IntelMausi    | 1.0.7     |
 | Lilu          | 1.6.2           |

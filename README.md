@@ -19,9 +19,7 @@
 
 
 ### 平台信息和下载链接
-
-| SMBIOS        | Platform           | download link | 
-| iMacPro1,1    | ONLY AMD GPU       | https://github.com/SuperNG6/MSI-B360-Big-Sur-EFI/releases/download/12.4/ONLY.AMD.GPU.iMacPro1.1.zip | 
+https://github.com/duanzhichao/MSI-B360-Big-Sur-EFI/archive/refs/tags/13.0.zip(https://github.com/duanzhichao/MSI-B360-Big-Sur-EFI/archive/refs/tags/13.0.zip)
 
 ### 驱动版本
 

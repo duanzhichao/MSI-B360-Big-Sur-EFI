@@ -34,12 +34,12 @@
 | NVMeFix       | 1.1.0                 | 
     
 
-## Changelog
+## 更新日志
 ### 2022/10/27
     1. 更新OpenCorePkg,Kexts到最新版
     2. 支持macOS Ventur
 
-### 微信主板bios版本 7B23v16
+### 微星主板bios版本 7B23v16
 MSI B360 BIOS download link https://cn.msi.com/Motherboard/support/B360M-MORTAR
 ![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/BIOS.png)
 

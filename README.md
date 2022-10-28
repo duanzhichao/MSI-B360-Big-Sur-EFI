@@ -19,7 +19,7 @@
 
 
 ### 平台信息和下载链接
-[https://github.com/duanzhichao/MSI-B360-Big-Sur-EFI/archive/refs/tags/13.0.zip]https://github.com/duanzhichao/MSI-B360-Big-Sur-EFI/archive/refs/tags/13.0.zip
+[https://github.com/duanzhichao/MSI-B360-Big-Sur-EFI/archive/refs/tags/13.0.zip](https://github.com/duanzhichao/MSI-B360-Big-Sur-EFI/archive/refs/tags/13.0.zip)
 
 ### 驱动版本
 

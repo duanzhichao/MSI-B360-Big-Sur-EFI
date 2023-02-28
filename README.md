@@ -25,16 +25,20 @@
 
 | Components    | Version               |
 | ------------- | --------------------- |
-| OpenCorePkg   | 0.8.4                 | 
-| AppleALC      | 1.7.5                 | 
+| OpenCorePkg   | 0.8.9                 | 
+| AppleALC      | 1.7.9                 | 
 | IntelMausi    | 1.0.7                 | 
-| Lilu          | 1.6.2                 | 
+| Lilu          | 1.6.3                 | 
 | VirtualSMC    | 1.3.0                  | 
-| WhateverGreen | 1.3.1                 | 
+| WhateverGreen | 1.7.9                 | 
 | NVMeFix       | 1.1.0                 | 
     
 
 ## 更新日志
+### 2023/02/28
+    1. 更新OpenCorePkg,Kexts到最新版
+    2. 支持macOS 13.2.1
+
 ### 2022/10/27
     1. 更新OpenCorePkg,Kexts到最新版
     2. 支持macOS Ventur

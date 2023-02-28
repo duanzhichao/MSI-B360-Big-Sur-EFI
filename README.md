@@ -19,7 +19,7 @@
 
 
 ### 平台信息和下载链接
-[https://github.com/duanzhichao/MSI-B360-Big-Sur-EFI/archive/refs/tags/13.0.zip](https://github.com/duanzhichao/MSI-B360-Big-Sur-EFI/archive/refs/tags/13.0.zip)
+[https://github.com/duanzhichao/MSI-B360-Big-Sur-EFI/releases/tag/13.2.1.zip](https://github.com/duanzhichao/MSI-B360-Big-Sur-EFI/releases/tag/13.2.1.zip)
 
 ### 驱动版本
 
@@ -43,7 +43,8 @@
     1. 更新OpenCorePkg,Kexts到最新版
     2. 支持macOS Ventur
 
-### 微星主板bios版本 7B23v16
-MSI B360 BIOS download link https://cn.msi.com/Motherboard/support/B360M-MORTAR
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/BIOS.png)
+### 微星主板bios版本 7B23v17
+[MSI B360 BIOS download link ](https://www.msicn.com.cn/Motherboard/B360M-MORTAR/support)
+![示例图片加载失败](https://raw.githubusercontent.com/duanzhichao/MSI-B360-Big-Sur-EFI/master/images/bios.png)
+
 
